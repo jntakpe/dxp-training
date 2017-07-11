@@ -8,10 +8,24 @@
         "git/local_def.md",
         "git/local_def_2.md",
         "git/local_workflow.md",
+        "git/prac_local.md",
         "git/branch.md",
         "git/branch_create.md",
         "git/branch_create_2.md",
         "git/branch_add.md",
-        "git/branch_usage.md"
+        "git/branch_usage.md",
+        "git/prac_branch.md",
+        "git/merging.md",
+        "git/fast_forward.md",
+        "git/fast_forward_done.md",
+        "git/merge.md",
+        "git/merge_done.md",
+        "git/rebase.md",
+        "git/rebase_done.md",
+        "git/reset.md",
+        "git/reset_modes.md",
+        "git/tree_movement.md",
+        "git/prac_merge.md",
+        "git/prac_rebase.md"
     ]
 ]
