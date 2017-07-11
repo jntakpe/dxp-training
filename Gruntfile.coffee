@@ -1,9 +1,11 @@
 # Generated on 2017-07-11 using generator-reveal 0.5.9
 module.exports = (grunt) ->
+
     grunt.initConfig
         pkg: grunt.file.readJSON 'package.json'
 
         watch:
+
             livereload:
                 options:
                     livereload: true
@@ -36,6 +38,7 @@ module.exports = (grunt) ->
                 tasks: ['sass']
 
         sass:
+
             theme:
                 files:
                     'css/theme.css': 'css/source/theme.scss'
@@ -109,12 +112,10 @@ module.exports = (grunt) ->
             slides = grunt.file.readJSON 'slides/list.json'
 
             html = grunt.template.process indexTemplate, data:
-                slides:
-                slides
+                slides: slides
                 section: (slide) ->
                     grunt.template.process sectionTemplate, data:
-                        slide:
-                        slide
+                        slide: slide
             grunt.file.write 'index.html', html
 
     grunt.registerTask 'test',

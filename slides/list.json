@@ -2,6 +2,8 @@
     "index.md",
     [
         "git/git.md",
-        "git/vcs.md"
+        "git/vcs.md",
+        "git/usage.md",
+        "git/workflow.md"
     ]
 ]
