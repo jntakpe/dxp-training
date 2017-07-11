@@ -4,6 +4,14 @@
         "git/git.md",
         "git/vcs.md",
         "git/usage.md",
-        "git/workflow.md"
+        "git/workflow.md",
+        "git/local_def.md",
+        "git/local_def_2.md",
+        "git/local_workflow.md",
+        "git/branch.md",
+        "git/branch_create.md",
+        "git/branch_create_2.md",
+        "git/branch_add.md",
+        "git/branch_usage.md"
     ]
 ]
