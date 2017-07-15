@@ -43,6 +43,13 @@
         "gradle/task.md",
         "gradle/task-dep.md",
         "gradle/task-phases.md",
-        "gradle/java.md"
+        "gradle/files.md",
+        "gradle/java.md",
+        "gradle/java-tasks.md",
+        "gradle/exec.md",
+        "gradle/dependencies.md",
+        "gradle/wrapper.md",
+        "gradle/daemon.md",
+        "gradle/practice.md"
     ]
 ]
