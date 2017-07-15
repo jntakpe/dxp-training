@@ -1,6 +1,7 @@
 [
     "index.md",
     [
+        "git/splash.md",
         "git/git.md",
         "git/vcs.md",
         "git/usage.md",
@@ -34,5 +35,14 @@
         "git/push.md",
         "git/push_force.md",
         "git/push_done.html"
+    ],
+    [
+        "gradle/splash.md",
+        "gradle/build_tool.md",
+        "gradle/gradle.md",
+        "gradle/task.md",
+        "gradle/task-dep.md",
+        "gradle/task-phases.md",
+        "gradle/java.md"
     ]
 ]
