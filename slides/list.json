@@ -51,5 +51,10 @@
         "gradle/wrapper.md",
         "gradle/daemon.md",
         "gradle/practice.md"
+    ],
+    [
+        "java/java.md",
+        "java/principles.html",
+        "java/basics.md"
     ]
 ]
