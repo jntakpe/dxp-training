@@ -55,6 +55,9 @@
     [
         "java/java.md",
         "java/principles.html",
-        "java/basics.md"
+        "java/basics.md",
+        "java/naming_rules.md",
+        "java/functions.md",
+        "java/classes.md"
     ]
 ]
