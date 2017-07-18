@@ -59,5 +59,15 @@
         "java/naming_rules.md",
         "java/functions.md",
         "java/classes.md"
+    ],
+    [
+        "microservices/msa.md",
+        "microservices/monolith.md",
+        "microservices/monolith-pros.md",
+        "microservices/monolith-cons.md",
+        "microservices/msa-scaling.md",
+        "microservices/business.md",
+        "microservices/conway.html",
+        "microservices/prac-split.html"
     ]
 ]
