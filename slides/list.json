@@ -38,7 +38,7 @@
     ],
     [
         "gradle/splash.md",
-        "gradle/build_tool.md",
+        "gradle/build-tool.md",
         "gradle/gradle.md",
         "gradle/task.md",
         "gradle/task-dep.md",
@@ -56,9 +56,11 @@
         "java/java.md",
         "java/principles.html",
         "java/basics.md",
-        "java/naming_rules.md",
+        "java/naming-rules.md",
         "java/functions.md",
-        "java/classes.md"
+        "java/classes.md",
+        "java/immutability.md",
+        "java/prac-java.md"
     ],
     [
         "java8/java8.md",
@@ -70,7 +72,18 @@
         "java8/method-ref.md",
         "java8/prac-filter-lambda.md",
         "java8/how-it-works.md",
-        "java8/default-method.md"
+        "java8/default-method.md",
+        "java8/map-filter-reduce.md",
+        "java8/stream.md",
+        "java8/what-is-a-stream.md",
+        "java8/create-stream.md",
+        "java8/stream-filter.md",
+        "java8/stream-lazy.md",
+        "java8/stream-inter.md",
+        "java8/stream-map.md",
+        "java8/stream-reduction.md",
+        "java8/stream-collectors.md",
+        "java8/prac-stream.md"
     ],
     [
         "microservices/msa.md",

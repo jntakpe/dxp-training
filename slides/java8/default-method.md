@@ -15,3 +15,4 @@ public interface Iterable<T> {
 
 * New java 8 concept
 * Allows to change old interfaces without breaking existing implementations
+* Works with static methods too
