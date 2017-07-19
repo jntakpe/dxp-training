@@ -83,7 +83,13 @@
         "java8/stream-map.md",
         "java8/stream-reduction.md",
         "java8/stream-collectors.md",
-        "java8/prac-stream.md"
+        "java8/prac-stream.md",
+        "java8/optional.md",
+        "java8/optional-create.md",
+        "java8/optional-test.md",
+        "java8/optional-operations.md",
+        "java8/optional-else.md",
+        "java8/wrap-up.md"
     ],
     [
         "microservices/msa.md",

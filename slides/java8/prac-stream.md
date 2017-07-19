@@ -9,6 +9,3 @@ Implement a method that calculates the smallest integer that can be divided by a
 * using functional algorithm (lambdas)
 when X = 5 => integer = 60
 when X = 10 => integer = 2520
-
-
-
