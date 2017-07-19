@@ -61,6 +61,18 @@
         "java/classes.md"
     ],
     [
+        "java8/java8.md",
+        "java8/features.md",
+        "java8/functional-int.md",
+        "java8/prac-filter.md",
+        "java8/first-lambda.md",
+        "java8/lambdas-questions.md",
+        "java8/method-ref.md",
+        "java8/prac-filter-lambda.md",
+        "java8/how-it-works.md",
+        "java8/default-method.md"
+    ],
+    [
         "microservices/msa.md",
         "microservices/monolith.md",
         "microservices/monolith-pros.md",
@@ -68,6 +80,6 @@
         "microservices/msa-scaling.md",
         "microservices/business.md",
         "microservices/conway.html",
-        "microservices/prac-split.html"
+        "microservices/prac-split.md"
     ]
 ]
