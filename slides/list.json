@@ -89,7 +89,16 @@
         "java8/optional-test.md",
         "java8/optional-operations.md",
         "java8/optional-else.md",
-        "java8/wrap-up.md"
+        "java8/wrap-up.md",
+        "java8/practice-java-full.md",
+        "java8/date.md",
+        "java8/old-date.md",
+        "java8/instant.md",
+        "java8/duration.md",
+        "java8/zonedt.md",
+        "java8/localdt.md",
+        "java8/partial-dt.md",
+        "java8/period.md"
     ],
     [
         "microservices/msa.md",
