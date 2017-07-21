@@ -102,6 +102,26 @@
         "java8/prac-dates.md"
     ],
     [
+        "spring/spring.md",
+        "spring/problem.md",
+        "spring/problem-ex.md",
+        "spring/spring-ex.md",
+        "spring/how-it-works.md",
+        "spring/xml",
+        "spring/annotation",
+        "spring/autowire",
+        "spring/variable",
+        "spring/setter",
+        "spring/constructor",
+        "spring/config",
+        "spring/scope"
+    ],
+    [
+        "boot/boot.md",
+        "boot/how-it-works.md",
+        "boot/containerm.md"
+    ],
+    [
         "microservices/msa.md",
         "microservices/monolith.md",
         "microservices/monolith-pros.md",
