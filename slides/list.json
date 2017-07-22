@@ -117,9 +117,16 @@
         "spring/scope"
     ],
     [
-        "boot/boot.md",
-        "boot/how-it-works.md",
-        "boot/containerm.md"
+        "spring/mvc/mvc.md",
+        "spring/mvc/controller.md",
+        "spring/mvc/tiers.md",
+        "spring/mvc/tiers-schema.html"
+    ],
+    [
+        "spring/boot/boot.md",
+        "spring/boot/how-it-works.md",
+        "spring/boot/container.md",
+        "spring/boot/prac-gs.md"
     ],
     [
         "microservices/msa.md",
