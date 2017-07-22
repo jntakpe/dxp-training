@@ -119,8 +119,15 @@
     [
         "spring/mvc/mvc.md",
         "spring/mvc/controller.md",
+        "spring/mvc/controller-schema.html",
+        "spring/mvc/controller-role.md",
         "spring/mvc/tiers.md",
-        "spring/mvc/tiers-schema.html"
+        "spring/mvc/tiers-schema.html",
+        "spring/mvc/rest.md",
+        "spring/mvc/verbs.md",
+        "spring/mvc/codes.md",
+        "spring/mvc/content-nego.md",
+        "spring/mvc/example.md"
     ],
     [
         "spring/boot/boot.md",
