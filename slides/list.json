@@ -130,6 +130,28 @@
         "spring/mvc/example.md"
     ],
     [
+        "spring/data/data.md",
+        "spring/data/supports.md",
+        "spring/data/jpa.md",
+        "spring/data/repo.md",
+        "spring/data/query-parser.md",
+        "spring/data/query-return.md",
+        "spring/data/and.md",
+        "spring/data/equals.md",
+        "spring/data/like.md",
+        "spring/data/starts-ends.md",
+        "spring/data/lessthan.md",
+        "spring/data/before-after.md",
+        "spring/data/truefalse.md",
+        "spring/data/null.md",
+        "spring/data/innotin.md",
+        "spring/data/ignorecase.md",
+        "spring/data/order.md",
+        "spring/data/first-top-dist.md",
+        "spring/data/query.md",
+        "spring/data/auditing.md"
+    ],
+    [
         "spring/boot/boot.md",
         "spring/boot/how-it-works.md",
         "spring/boot/container.md",
