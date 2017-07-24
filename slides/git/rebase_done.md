@@ -1,5 +1,5 @@
 ```git checkout master```
 
-```git rebase experiment```
+```git pull --rebase experiment```
 
 ![Rebase done](/resources/images/rebase_done.png)
