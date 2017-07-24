@@ -27,11 +27,13 @@
         "git/merge_done.md",
         "git/rebase.md",
         "git/rebase_done.md",
+        "git/prac_merge_ff.md",
         "git/prac_merge.md",
         "git/prac_rebase.md",
         "git/clone.md",
         "git/fetch.md",
         "git/fetch_process.md",
+        "git/pull.md",
         "git/push.md",
         "git/push_force.md",
         "git/push_done.html"
