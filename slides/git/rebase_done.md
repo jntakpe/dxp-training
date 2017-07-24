@@ -2,4 +2,4 @@
 
 ```git pull --rebase experiment```
 
-![Rebase done](/resources/images/rebase_done.png)
+![Rebase done](../../resources/images/rebase_done.png)

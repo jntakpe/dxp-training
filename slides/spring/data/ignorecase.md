@@ -1,3 +1,3 @@
 ## IgnoreCase 
 
-![Ignore case](/resources/images/ignorecase.png)
+![Ignore case](../../../resources/images/ignorecase.png)

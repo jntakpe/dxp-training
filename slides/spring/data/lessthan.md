@@ -1,3 +1,3 @@
 ## Less than / Greater than
 
-![less](/resources/images/lessthan.png)
+![less](../../../resources/images/lessthan.png)

@@ -1,3 +1,3 @@
 ## Equals 
 
-![Equals](/resources/images/equals.png)
+![Equals](../../resources/images/equals.png)

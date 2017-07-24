@@ -1,3 +1,4 @@
 ## And 
 
-![And](/resources/images/and.png)
+![And](../../../resources/images/and.png)
+

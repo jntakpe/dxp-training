@@ -1,3 +1,3 @@
 ## Merge
 
-![Merge setup](/resources/images/merge.png)
+![Merge setup](../../resources/images/merge.png)

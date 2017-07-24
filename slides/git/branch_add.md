@@ -6,4 +6,4 @@
 
 ```git commit -m "My commit message"```
 
-![Add commit to branch](/resources/images/commit_branch.png)
+![Add commit to branch](../../resources/images/commit_branch.png)

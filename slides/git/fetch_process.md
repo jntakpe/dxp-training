@@ -1,5 +1,5 @@
-![Fetch init](/resources/images/fetch.png)
+![Fetch init](../../resources/images/fetch.png)
 
 ```git fetch origin```
 
-![Fetch done](/resources/images/fetch_done.png)
+![Fetch done](../../resources/images/fetch_done.png)

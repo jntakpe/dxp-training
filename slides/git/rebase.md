@@ -1,3 +1,3 @@
 ## Rebase
 
-![Rebase setup](/resources/images/rebase.png)
+![Rebase setup](../../resources/images/rebase.png)

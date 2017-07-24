@@ -1,3 +1,3 @@
 ## Before / after / between
 
-![Before after](/resources/images/before-after.png)
+![Before after](../../../resources/images/before-after.png)

@@ -1,3 +1,3 @@
 ## No container
 
-![container vs no container](/resources/images/container.png)
+![container vs no container](../../../resources/images/container.png)

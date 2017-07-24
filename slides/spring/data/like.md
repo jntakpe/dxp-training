@@ -1,3 +1,3 @@
 ## Like
 
-![Like](/resources/images/like.png)
+![Like](../../../resources/images/like.png)

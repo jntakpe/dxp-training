@@ -1,3 +1,3 @@
 ## JPA
 
-![Classic JPA](/resources/images/jpa.png)
+![Classic JPA](../../../resources/images/jpa.png)

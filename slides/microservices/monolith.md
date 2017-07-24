@@ -1,3 +1,3 @@
 ## Monolith
 
-![Monolith](/resources/images/monolith.png)
+![Monolith](../../resources/images/monolith.png)

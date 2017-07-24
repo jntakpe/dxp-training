@@ -1,3 +1,3 @@
 ## Order
 
-![Order](/resources/images/order.png)
+![Order](../../../resources/images/order.png)

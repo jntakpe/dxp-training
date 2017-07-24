@@ -1,3 +1,3 @@
 ## Fast forward
 
-![Fast forward setup](/resources/images/ff.png)
+![Fast forward setup](../../resources/images/ff.png)
