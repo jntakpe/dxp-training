@@ -1,3 +1,3 @@
 ## Equals 
 
-![Equals](../../resources/images/equals.png)
+![Equals](https://jntakpe.github.io/dxp-training/resources/images/equals.png)

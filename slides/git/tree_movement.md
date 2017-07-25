@@ -1,3 +1,3 @@
 ## Tree movement
 
-![Tree movement](../../resources/images/tree_movement.png)
+![Tree movement](https://jntakpe.github.io/dxp-training/resources/images/tree_movement.png)

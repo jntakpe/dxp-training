@@ -1,3 +1,3 @@
 ## JPA
 
-![Classic JPA](../../../resources/images/jpa.png)
+![Classic JPA](https://jntakpe.github.io/dxp-training/resources/images/jpa.png)

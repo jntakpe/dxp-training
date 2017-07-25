@@ -1,4 +1,4 @@
 ## And 
 
-![And](../../../resources/images/and.png)
+![And](https://jntakpe.github.io/dxp-training/resources/images/and.png)
 

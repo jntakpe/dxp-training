@@ -1,5 +1,5 @@
-![Fetch init](../../resources/images/fetch.png)
+![Fetch init](https://jntakpe.github.io/dxp-training/resources/images/fetch.png)
 
 ```git fetch origin```
 
-![Fetch done](../../resources/images/fetch_done.png)
+![Fetch done](https://jntakpe.github.io/dxp-training/resources/images/fetch_done.png)

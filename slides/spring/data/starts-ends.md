@@ -1,3 +1,3 @@
 ## Starts ends 
 
-![Starts ends](../../../resources/images/starts-ends.png)
+![Starts ends](https://jntakpe.github.io/dxp-training/resources/images/starts-ends.png)

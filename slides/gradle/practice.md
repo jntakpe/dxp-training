@@ -11,4 +11,4 @@ public interface Practice {
 ```
 * Import JUnit dependency
 * Create 2 tests that verify that smallestInt return *60* and *2520* when limit is *5* and *10* then run the tests
-* **Optional** : Implement *smallestInt* to find what is the smallest integer that can be divided by all the integers from 1 to X ?
+* **Optional** : Implement *smallestInt* to find what is the smallest integer that can be divided by all the integers from 1 to X=5 and X=10 ?

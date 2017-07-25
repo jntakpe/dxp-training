@@ -1,3 +1,3 @@
 ## Order
 
-![Order](../../../resources/images/order.png)
+![Order](https://jntakpe.github.io/dxp-training/resources/images/order.png)

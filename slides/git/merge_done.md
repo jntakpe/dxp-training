@@ -2,4 +2,4 @@
 
 ```git merge iss53```
 
-![Merge done](../../resources/images/merge_done.png)
+![Merge done](https://jntakpe.github.io/dxp-training/resources/images/merge_done.png)

@@ -1,3 +1,3 @@
 ## Null / Is Not Null
 
-![Null](../../../resources/images/null.png)
+![Null](https://jntakpe.github.io/dxp-training/resources/images/null.png)

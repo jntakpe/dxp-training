@@ -1,3 +1,3 @@
 ## No container
 
-![container vs no container](../../../resources/images/container.png)
+![container vs no container](https://jntakpe.github.io/dxp-training/resources/images/container.png)

@@ -2,4 +2,4 @@
 
 ```git merge hotfix```
 
-![Fast forward done](../../resources/images/ff_done.png)
+![Fast forward done](https://jntakpe.github.io/dxp-training/resources/images/ff_done.png)

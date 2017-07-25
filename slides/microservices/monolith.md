@@ -1,3 +1,3 @@
 ## Monolith
 
-![Monolith](../../resources/images/monolith.png)
+![Monolith](https://jntakpe.github.io/dxp-training/resources/images/monolith.png)

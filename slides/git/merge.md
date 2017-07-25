@@ -1,3 +1,3 @@
 ## Merge
 
-![Merge setup](../../resources/images/merge.png)
+![Merge setup](https://jntakpe.github.io/dxp-training/resources/images/merge.png)

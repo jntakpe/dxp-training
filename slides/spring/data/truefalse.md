@@ -1,3 +1,3 @@
 ## True false 
 
-![true false](../../../resources/images/truefalse.png)
+![true false](https://jntakpe.github.io/dxp-training/resources/images/truefalse.png)

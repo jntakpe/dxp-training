@@ -3,4 +3,4 @@
 * Monolith : Scaling all the features together
 * Microservices : Features scaling independently
 
-![Scaling](../../resources/images/scaling.png)
+![Scaling](https://jntakpe.github.io/dxp-training/resources/images/scaling.png)

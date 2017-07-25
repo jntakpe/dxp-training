@@ -1,3 +1,3 @@
 ## Less than / Greater than
 
-![less](../../../resources/images/lessthan.png)
+![less](https://jntakpe.github.io/dxp-training/resources/images/lessthan.png)
