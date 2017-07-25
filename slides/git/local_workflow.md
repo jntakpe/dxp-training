@@ -1,3 +1,3 @@
 ## Local workflow
 
-![Local workflow](../../resources/images/local_workflow.png)
+![Local workflow](https://jntakpe.github.io/dxp-training/resources/images/local_workflow.png)

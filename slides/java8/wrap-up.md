@@ -1,3 +1,3 @@
 ## Cheat sheet 
 
-![Cheat sheet](../../resources/images/cheat-sheet.png)
+![Cheat sheet](https://jntakpe.github.io/dxp-training/resources/images/cheat-sheet.png)

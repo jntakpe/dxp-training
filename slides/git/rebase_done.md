@@ -1,5 +1,5 @@
 ```git checkout master```
 
-```git pull --rebase experiment```
+```git rebase experiment```
 
-![Rebase done](../../resources/images/rebase_done.png)
+![Rebase done](https://jntakpe.github.io/dxp-training/resources/images/rebase_done.png)
