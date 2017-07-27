@@ -109,14 +109,14 @@
         "spring/problem-ex.md",
         "spring/spring-ex.md",
         "spring/how-it-works.md",
-        "spring/xml",
-        "spring/annotation",
-        "spring/autowire",
-        "spring/variable",
-        "spring/setter",
-        "spring/constructor",
-        "spring/config",
-        "spring/scope"
+        "spring/xml.md",
+        "spring/annotation.md",
+        "spring/autowire.md",
+        "spring/variable.md",
+        "spring/setter.md",
+        "spring/constructor.md",
+        "spring/config.md",
+        "spring/scope.md"
     ],
     [
         "spring/mvc/mvc.md",
