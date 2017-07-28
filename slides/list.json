@@ -160,6 +160,28 @@
         "spring/boot/prac-gs.md"
     ],
     [
+        "rxjava/rxjava.md",
+        "rxjava/why/disclaimer.html",
+        "rxjava/how-rx-works/observable.md",
+        "rxjava/how-rx-works/observer.md",
+        "rxjava/how-rx-works/marbles.md",
+        "rxjava/how-rx-works/sync-vs-async.html",
+        "rxjava/how-rx-works/pull-vs-push.html",
+        "rxjava/how-rx-works/lazy-obs.md",
+        "rxjava/create/create.md",
+        "rxjava/create/from.md",
+        "rxjava/create/just.md",
+        "rxjava/create/create-op.md",
+        "rxjava/create/other-ops.md",
+        "rxjava/filter/filter.md",
+        "rxjava/filter/other-filters.md",
+        "rxjava/transform/map.md",
+        "rxjava/transform/flatmap.md",
+        "rxjava/transform/concatmap.md",
+        "rxjava/transform/switchMap.md",
+        "rxjava/transform/reduce.md"
+    ],
+    [
         "microservices/msa.md",
         "microservices/monolith.md",
         "microservices/monolith-pros.md",
