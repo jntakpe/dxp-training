@@ -162,6 +162,8 @@
     [
         "rxjava/rxjava.md",
         "rxjava/why/disclaimer.html",
+        "rxjava/why/pros.md",
+        "rxjava/why/zipkin.md",
         "rxjava/how-rx-works/observable.md",
         "rxjava/how-rx-works/observer.md",
         "rxjava/how-rx-works/marbles.md",
