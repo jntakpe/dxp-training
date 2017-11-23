@@ -1,8 +1,8 @@
-# RxJava
+# Reactive programming
 
-Reactive extensions - Programmation réactive
+Reactive extensions
 
-* Flux événements
-* Un événement peut être une valeur, une erreur ou une terminaison
-* On peut s'abonner au flux
+* Event flow
+* An event could be a value, an error or a terminal event
+* You can subscribe to a flow
 * Observables != Promises
